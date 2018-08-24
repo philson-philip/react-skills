@@ -1,7 +1,7 @@
 # React - A JavaScript Library for building User Interfaces
 Commands for creating your first app with React
 Note - Make sure that Node.js is installed in your system
-# > npx create-react-app <app-name>
+# > npx create-react-app app-name
 Note - In some of the system with PC name contain spaces, the above command shows error and will fail to build the app. They can try below command instead of above on to fix that.
 # > npm install -g create-react-app
 # > create-react-app app-name
